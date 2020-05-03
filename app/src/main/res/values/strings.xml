@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth_In_out</string>
+    <string name="btn1_name">1번</string>
+    <string name="btn2_name">2번</string>
+    <string name="btn3_name">3번</string>
+    <string name="btn4_name">4번</string>
+    <string name="btn5_name">5번</string>
+    <string name="btn6_name">CHANGE</string>
+    <string name="btn7_name">GET VALUE</string>
+</resources>
